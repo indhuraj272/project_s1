@@ -106,6 +106,7 @@ sendkey(r2, "@yy8dPATFSL3Wm");
 		clickon(s2);
 		alertaccept();
 		screenscot("/home/hp/eclipse-workspace/seleniumDemo/src/com/selenium/learn/Selenium/scr_5\\snap.png");
+		
 		WebElement s3 = driver.findElement(By.name("logout"));
 		clickon(s3);
 		screenscot("/home/hp/eclipse-workspace/seleniumDemo/src/com/selenium/learn/Selenium/scr_6\\snap.png");
